@@ -1,0 +1,231 @@
+body{
+    background-image: url(https://w.forfun.com/fetch/4e/4e28f68ce356724258e99d1675e9db95.jpeg);
+    background-repeat:repeat-y;
+}
+
+header
+{
+font-size: 60px;
+margin: 10px;
+padding-left: 10px;
+opacity: 0.8;
+border-radius: 20px;
+box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+margin-right: 550px;
+font-family: cursive;
+background-color: cornsilk;
+}
+
+.info{
+    text-align: left;
+    margin-left: 200px;
+    padding-bottom: 200px;
+    font-family:'Times New Roman', Times, serif;
+    border-radius: 20px;
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+    background-color:darkgray;
+    opacity: 0.8;
+}
+
+.info h1{
+    font-size: 40px;
+    text-align: center;
+    margin-left: 180px;
+    display: flex;
+}
+
+.info div{
+    font-size: 30px;
+    text-align: center;
+    display:flex;
+    padding-top:50px;
+    margin-left: 30px;
+    display: inline-block;
+}
+
+.info img{
+    width: 45%;
+    height: 50%;
+    float: right;
+    vertical-align: middle;
+}
+
+.features{
+background-color: crimson;
+opacity: 0.8;
+border-radius: 20px;
+box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+font-family: cursive;
+margin-right: 300px;
+
+}
+.features h1{
+font-size: 40px;
+margin-left: 10px;
+}
+.features h2{
+font-size: 30px;
+margin-bottom: 10px;
+}
+.features div{
+font-size: 22px;
+margin-top: 0;
+}
+
+.products{
+text-align: center;
+margin-bottom: 50px;
+font-family: monospace;
+opacity: 0.7;
+box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+border-radius: 20px;
+}
+.products h1{
+font-size: 45px;
+margin-bottom: 0px;
+}
+.products h2{
+font-size: 27px;
+margin-top: 0px ;
+}
+
+.products div{
+width: auto;
+max-height: 1%;
+overflow: hidden;
+}
+
+
+.contacts{
+    background-color: darkviolet;
+    display:flow-root;
+    font-family: cursive;
+    opacity: 0.7;
+box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+border-radius: 20px;
+}
+
+.contacts1{
+    text-align: left;
+    font-size: 30px;
+    font-family: cursive;
+}
+
+.contacts h1{
+    margin-right: 50px;
+}
+.contacts2{
+    text-align: right;
+    margin-top: 0px;
+ 
+}
+
+.contacts2.adress{
+    font-size:23px;
+    margin-bottom: 10px;
+}
+
+.contacts2.email{
+    font-size:20px;
+    margin-bottom: 10px;
+}
+
+.contacts2.phone{
+    font-size:20px;
+    margin-bottom: 10px;
+}
+
+.footer.creator{
+    font-size: 12px;
+    text-align: center;
+    margin-top: 100px;
+}
+
+
+
+
+.small-info{
+    text-align: center;
+    background-color: brown;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    opacity: 0.5;
+
+}
+.small-info h1{
+    font-size: 40px;
+}
+.small-info h2{
+    font-size: 20px;
+}
+
+
+.ways h2{
+    text-align: center;
+    background-color: cornflowerblue;
+    opacity: 0.5;
+}
+.ways h3{
+    text-align: left;
+    background-color: cornflowerblue;
+    opacity: 0.5;
+}
+.ways ul{
+    list-style-type: disc;
+    border-style:outset
+}
+
+.advantages{
+    background-color: forestgreen;
+    font-size: larger;
+    padding: 500px 0px;
+    opacity: 0.5;
+}
+
+.questions{
+    background-color:dodgerblue;
+    text-align: center;
+    opacity: 0.5;
+}
+.questions h1{
+    padding-top: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.questions h2{
+border-style: dotted;
+border-width: 10px;
+display: inline-block;
+}
+.questions h5{
+    padding-bottom: 10px;
+    font-style: oblique;
+}
+
+
+.contacts-info{
+    display:inline-table;
+    background-color: hotpink;
+    margin-left:130px;
+    padding: 8%;
+    opacity: 0.5;
+}
+
+.contacts-map{
+    background-color: dimgray;
+    margin-left:100px;
+    opacity: 0.5;
+}
+
+.brands{
+    background-color: greenyellow;
+    margin-top: 30px;
+    padding: 25%;
+    opacity: 0.5;
+}
+
+.catalog{
+    background-color: khaki;
+    padding: 30%;
+    margin-top: 20px;
+    opacity: 0.5;
+}
